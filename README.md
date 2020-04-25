@@ -1,1 +1,1 @@
-# Rozwiązania zadań z języka Python - WSB Tester Oprogramowania
+Rozwiązania zadań z języka Python - WSB Tester Oprogramowania
