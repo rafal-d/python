@@ -9,10 +9,10 @@ print('Podaj słowo, które może być palindromem:')
 slowo = input()
 
 # odwrocenie slowa
-odwrotneSlowo = slowo[::-1]
+odwroconeSlowo = slowo[::-1]
 
 # sprawdzenie czy podane slowo jest palindromem
-if slowo == odwrotneSlowo:
-    print('Podane slowo ' + slowo.upper() + ' czytane od tylu jest palindromem ' + odwrotneSlowo.upper())
+if slowo == odwroconeSlowo:
+    print('Podane slowo ' + slowo.upper() + ' czytane od tylu jest palindromem ' + odwroconeSlowo.upper())
 else:
     print('Podane slowo czytane od tyłu nie jest palindromem')
