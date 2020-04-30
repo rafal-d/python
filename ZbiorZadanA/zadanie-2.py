@@ -8,8 +8,8 @@ def silnia(n):
         silnia *= i
     print('Silnia z liczby: ' + str(n) + ' to: '+ str(silnia))
 
-print('Program zwaraca silnie podanej liczby \n')
-print('Podaj liczbę dla której chces obliczyć silnie: ')
+print('Program zwraca silnie podanej liczby iteracyjnie \n')
+print('Podaj liczbę dla której chcesz obliczyć silnie: ')
 
 liczba = int(input())
 
